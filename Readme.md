@@ -602,7 +602,7 @@ npm test
 
 ### Reporting Security Issues
 
-If you discover a security vulnerability, please email `admin@hyperbuildx.com` with details. Please do not open public issues for security vulnerabilities.
+If you discover a security vulnerability, please email `web3wiz.dev@gmail.com` with details. Please do not open public issues for security vulnerabilities.
 
 ---
 
@@ -695,7 +695,6 @@ https://github.com/user-attachments/assets/8f48a641-7edb-4af3-a17e-c5464bfef660
 
 We'd love to hear from you! Whether you have questions, suggestions, or need support:
 
-- **Email**: admin@hyperbuildx.com
 - **Telegram**: [@frogansol](https://t.me/frogansol)
 - **GitHub**: [frogansol/solana-prediction-market](https://github.com/frogansol/solana-prediction-market)
 
