@@ -19,7 +19,9 @@ DecentraPredict is an open-source decentralized prediction market built on Solan
 ---
 
 ## 🎞 How it works
-You can check the guide video here:
+You can reference the guide video here:
+
+https://github.com/user-attachments/assets/8f48a641-7edb-4af3-a17e-c5464bfef660
 
 ---
 
@@ -78,5 +80,5 @@ FEE_AUTHORITY =
 ## 💬 Contact
 
 If you have any questions or would like a more customized app for specific use cases, please feel free to contact us at the contact information below.
-- E-Mail: hyperbuildx@adamglab.dev
-- Telegram: [@Frogansol](https://t.me/frogansol)
+- E-Mail: admin@hyperbuildx.com
+- Telegram: [@frogansol](https://t.me/frogansol)
